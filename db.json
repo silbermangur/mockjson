@@ -6,27 +6,6 @@
   "description": "this is a black shirt",
   "price": "19.99$",
   "category": "man clothing"
-    },
-    {
-    "id": 2,
-    "title":"red t-shirt",
-    "description": "this is a red shirt",
-    "price": "20.99$",
-    "category": "man clothing"
-    },
-    {
-     "id": 3,
-    "title":"green t-shirt",
-    "description": "this is a green shirt",
-    "price": "21.99$",
-    "category": "man clothing"
-    },
-    {
-      "id": 4,
-      "title":"blue t-shirt",
-      "description": "this is a blue shirt",
-      "price": "22.99$",
-      "category": "man clothing"
     }
    ]
  }
