@@ -2,7 +2,7 @@
   "products": [
     {
   "id": 1,
-  "url": "https://premiumkids.co.il/he/Website/ProductsWebsite/Product/12003",
+  "imageUrl": "https://premiumkids.co.il/he/Website/ProductsWebsite/Product/12003",
   "title":"black t-shirt", 
   "description": "this is a black shirt",
   "price": "19.99$",
