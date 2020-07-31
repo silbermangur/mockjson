@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "black shirt",
+      "category" : "Men Clothing",
       "cost": "20"
     }
 ]
