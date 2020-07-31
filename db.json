@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "black shirt",
-      "price": 20
+      "cost": "20"
     }
 ]
 }
