@@ -2,7 +2,8 @@
   "products": [
     {
       "id": 1,
-      "title": "black shirt"
+      "title": "black shirt",
+      "price": "20"
     }
 ]
 }
