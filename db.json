@@ -30,7 +30,7 @@
       "category": "Electronics",
       "cost": "33"
     },
-     {
+    {
       "id": 6,
       "title": "toaster",
       "category": "Electronics",
@@ -42,11 +42,11 @@
       "category": "Electronics",
       "cost": "48"
     },
-      {
+    {
       "id": 8,
       "title": "refrigerator",
       "category": "Electronics",
       "cost": "58"
-    },
-   ]
+    }
+  ]
 }
