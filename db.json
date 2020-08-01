@@ -11,6 +11,18 @@
       "title": "red shirt",
       "category" : "Men Clothing",
       "cost": "25"
-    }  
+    },
+    {
+      "id": 3,
+      "title": "Blue shirt",
+      "category" : "Men Clothing",
+      "cost": "22"
+    },
+    {
+      "id": 4,
+      "title": "Green shirt",
+      "category" : "Men Clothing",
+      "cost": "23"
+    }
    ]
 }
