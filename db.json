@@ -5,6 +5,12 @@
       "title": "black shirt",
       "category" : "Men Clothing",
       "cost": "20"
-    }
-]
+    },
+    {
+      "id": 2,
+      "title": "red shirt",
+      "category" : "Men Clothing",
+      "cost": "25"
+    }  
+   ]
 }
